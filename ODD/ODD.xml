@@ -17,12 +17,13 @@
                 <authority>E-ditiones</authority>
             </publicationStmt>
             <sourceDesc>
-                <p>It's a born digital edition. It follows the workf of Alexandre Bartz and Simon
+                <p>It's a born digital edition. It follows the work of Alexandre Bartz and Simon
                     Gabay.</p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
             <change when="2021-06-29"> Complete correction+schematron rules</change>
+	    <change when="2021-07-19">Change about date tag</change>
         </revisionDesc>
     </teiHeader>
     <text>
