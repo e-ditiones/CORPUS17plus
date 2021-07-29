@@ -23,10 +23,14 @@ IIIF images.
 
 3. `text` in which is all transcription, linked to the relevant line/zone
 
-
 ## Credits
 
 Documents have been created by Claire Jahan with the help of Simon Gabay, as part of the [_E-ditiones_](https://github.com/e-ditiones) project.
+
+## Contacts
+Claire Jahan : claire.jahan[at]chartes.psl.eu
+
+Simon Gabay : Simon.Gabay[at]unige.ch
 
 ## Licence
 
