@@ -25,7 +25,7 @@ IIIF images.
 
 ## Credits
 
-Documents have been created by Claire Jahan with the help of Simon Gabay, as part of the [_E-ditiones_](https://github.com/e-ditiones) project.
+Documents have been encoded by Claire Jahan with the help of Simon Gabay, as part of the [_E-ditiones_](https://github.com/e-ditiones) project.
 
 ## Contact
 Claire Jahan : claire.jahan[at]chartes.psl.eu
