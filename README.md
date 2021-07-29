@@ -27,7 +27,7 @@ IIIF images.
 
 Documents have been created by Claire Jahan with the help of Simon Gabay, as part of the [_E-ditiones_](https://github.com/e-ditiones) project.
 
-## Contacts
+## Contact
 Claire Jahan : claire.jahan[at]chartes.psl.eu
 
 Simon Gabay : Simon.Gabay[at]unige.ch
