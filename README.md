@@ -30,9 +30,9 @@ Documents have been created by Claire Jahan with the help of Simon Gabay, as par
 
 ## Licence
 
-This repository is CC-BY-SA.
+This repository is CC-BY.
 <br/>
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/2.0"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-sa/2.0/88x31.png" /></a>
+<a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by/2.0/88x31.png" /></a>
 
 ## Cite this repository
 
